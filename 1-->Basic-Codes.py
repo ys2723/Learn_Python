@@ -7,6 +7,7 @@ b = float(b)
 print('The Sum of the two numbers is ',a+b) 
 print("\n--------------------------------------------------\n")
 
+
 # Below is a code to find remainder
 
 a = input("Enter first number: ") #input always taken as string
