@@ -5,6 +5,7 @@ b = input("Enter second number: ")
 a = float(a) #converting string to float
 b = float(b) 
 print('The Sum of the two numbers is ',a+b) 
+print("\n--------------------------------------------------\n")
 
 # Below is a code to find remainder
 
@@ -13,6 +14,7 @@ b = input("Enter second number: ")
 a = float(a) #converting string to float
 b = float(b) 
 print("The reaminder is ",a%b)
+print("\n--------------------------------------------------\n")
 
 # Below is a code to check data type of a number
 
