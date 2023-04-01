@@ -31,6 +31,7 @@ a.add(9)
 print(a)
 #cannot add dictionary or list inside sets because sets can't be changed but dictionary and lists can be changed
 
+
 print(len(a))    #prints the number of items in the set
 
 a.remove(1)      #removes element
