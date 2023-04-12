@@ -1,0 +1,11 @@
+# Break Statement
+
+# Else statement is not executed because loop didn't run fully (not a successful termination)
+
+for i in range(8):
+    print(i)
+    if i == 5:
+        break
+    
+else:
+    print("Line Completed") 
