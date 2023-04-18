@@ -10,3 +10,15 @@ def add(a,b):
 s = int(input('Enter first number: '))
 t = int(input("Enter second number: "))
 print(add(s,t))
+
+
+
+# Greeting using function
+
+def greet(name = 'Stranger'):
+    print("Good day, " + name)
+
+a = input("Enter your name: ")
+greet(a)
+greet("Harsh")
+greet() #default parameter value is set to 'Stranger'
