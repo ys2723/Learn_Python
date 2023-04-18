@@ -1,0 +1,8 @@
+# Addition using function in python
+
+def add(a,b):
+    return a+b
+    
+s = int(input('Enter first number: '))
+t = int(input("Enter second number: "))
+print(add(s,t))
