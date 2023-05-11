@@ -1,0 +1,18 @@
+# File I/O
+
+f = open('sample.txt', 'r') # opens file in reading mode
+# default mode is r
+
+data1 = f.read() # reads the entire file 
+data2 = f.read(5) # reads the first 5 characters of the file
+data3 = f.readline() # reads only 1 line from the file
+
+print(data1)
+print(data2)
+print(data3)
+f.close() #necessary to close file
+
+# r = open for reading
+# w = open for writing
+# a = open for appending 
+# + = open for updating
