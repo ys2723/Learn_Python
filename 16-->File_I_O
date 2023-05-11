@@ -38,3 +38,15 @@ data = f.readline() # reads only 1 line from the file
 print(data)
 
 f.close()
+
+
+
+Modes of opening a file: 
+
+r = open for reading
+w = open for writing
+a = open for appending      (helps in adding text)
++ = open for updating         ('+' does the work of both 'r' and 'w')
+
+'rb' will open for read in binary mode.
+'rt' will open for read in text mode. ('t' is by default)
