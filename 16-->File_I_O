@@ -50,3 +50,14 @@ a = open for appending      (helps in adding text)
 
 'rb' will open for read in binary mode.
 'rt' will open for read in text mode. ('t' is by default)
+
+# W
+
+f = open('sample.txt', 'w') 
+f.write('This line is added to the file') 
+f.close()
+
+g = open('another.txt', 'a')
+g.write('Appending') 
+#this line will keep getting added the number of times we hit 'run'
+g.close()
