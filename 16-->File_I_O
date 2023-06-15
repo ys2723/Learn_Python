@@ -51,7 +51,7 @@ a = open for appending      (helps in adding text)
 'rb' will open for read in binary mode.
 'rt' will open for read in text mode. ('t' is by default)
 
-# W
+# Writing and Appending
 
 f = open('sample.txt', 'w') 
 f.write('This line is added to the file') 
