@@ -61,3 +61,9 @@ g = open('another.txt', 'a')
 g.write('Appending') 
 #this line will keep getting added the number of times we hit 'run'
 g.close()
+
+# With statement
+
+with open('file.txt', 'r') as c:
+    c.read() 
+# no need to write close here because w
