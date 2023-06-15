@@ -19,3 +19,5 @@ c = 0
 while c < len(capitals):
     print(capitals[c])
     c = c + 1
+
+# Observe that the use of braces isn't really required but indentation (spaces) is important.
