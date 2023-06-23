@@ -1,5 +1,5 @@
 # Pass Statement
-# Instructs to 'DO NOTHING'
+# It instructs to 'DO NOTHING'
 
 i = 4
 if i < 5:
