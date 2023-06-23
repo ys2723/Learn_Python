@@ -10,4 +10,4 @@ This is a repository which consists of python codes which will help a beginner i
 
 ## Contents:
 
-[Basic Codes](https://github.com/ys2723/Learn_Python/blob/main/1--%3EBasic-Codes.py)
+1. [Basic Codes](https://github.com/ys2723/Learn_Python/blob/main/1--%3EBasic-Codes.py)
