@@ -5,8 +5,6 @@ name = "Yash"
 print(greeting + name)
 print("\n--------------------\n")
 
-
-
 # Below is a code to show indexing and slicing in strings
 
 a = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
@@ -17,14 +15,11 @@ print(a[:8])          #would print 0 to 7, first 8 elements
 print(a[-1])          #negative indexing, elements are marked from (-1) to (-n) from right to left
 print("\n--------------------\n")
 
-
-
 # Slicing with skip value
 
 print(a[0:4:2])       # print 0 to 3 BUT print every second character
 print(a[0:20:4])      # print 0 to 19 BUT print every fourth character
 print("\n--------------------\n")
-
 
 # String length 
 
@@ -56,7 +51,6 @@ print("---------")
 
 print(b.replace("Constantinople","what?")) #replaces all occurances of the old word with new word
 print("\n--------------------\n")
-
 
 # escaape sequence 
 
