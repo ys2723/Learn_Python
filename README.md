@@ -11,3 +11,4 @@ This is a repository which consists of python codes which will help a beginner i
 ## Contents:
 
 1. [Basic Codes](https://github.com/ys2723/Learn_Python/blob/main/1--%3EBasic-Codes.py)
+2. [String Operations](https://github.com/ys2723/Learn_Python/blob/main/2--%3EString-Operations.py)
