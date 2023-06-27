@@ -14,3 +14,4 @@ This is a repository which consists of python codes which will help a beginner i
 2. [String Operations](https://github.com/ys2723/Learn_Python/blob/main/2--%3EString-Operations.py)
 3. [Lists](https://github.com/ys2723/Learn_Python/blob/main/3--%3ELists.py)
 4. [Tuple](https://github.com/ys2723/Learn_Python/blob/main/4--%3ETuple.py)
+5. [Dictionary](https://github.com/ys2723/Learn_Python/blob/main/5--%3EDictionary.py)
