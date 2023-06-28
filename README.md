@@ -15,3 +15,4 @@ This is a repository which consists of python codes which will help a beginner i
 3. [Lists](https://github.com/ys2723/Learn_Python/blob/main/3--%3ELists.py)
 4. [Tuple](https://github.com/ys2723/Learn_Python/blob/main/4--%3ETuple.py)
 5. [Dictionary](https://github.com/ys2723/Learn_Python/blob/main/5--%3EDictionary.py)
+6. [Sets](https://github.com/ys2723/Learn_Python/blob/main/6--%3ESets.py)
