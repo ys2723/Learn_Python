@@ -19,4 +19,4 @@ This is a repository which consists of python codes which will help a beginner i
 7. [While Loop](https://github.com/ys2723/Learn_Python/blob/main/7--%3EWhile_Loop.py)
 8. [For Loop](https://github.com/ys2723/Learn_Python/blob/main/8--%3EFor_Loop.py)
 9. [Break Statement](https://github.com/ys2723/Learn_Python/blob/main/9--%3EBreak_Statement.py)
-    
+10. [Continue Statement](https://github.com/ys2723/Learn_Python/blob/main/10--%3EContinue_Statement.py)
