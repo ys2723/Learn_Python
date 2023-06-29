@@ -17,3 +17,4 @@ This is a repository which consists of python codes which will help a beginner i
 5. [Dictionary](https://github.com/ys2723/Learn_Python/blob/main/5--%3EDictionary.py)
 6. [Sets](https://github.com/ys2723/Learn_Python/blob/main/6--%3ESets.py)
 7. [While Loop](https://github.com/ys2723/Learn_Python/blob/main/7--%3EWhile_Loop.py)
+8. [For Loop](https://github.com/ys2723/Learn_Python/blob/main/8--%3EFor_Loop.py)
