@@ -23,3 +23,4 @@ This is a repository which consists of python codes which will help a beginner i
 11. [Pass Statement](https://github.com/ys2723/Learn_Python/blob/main/11--%3EPass_Statement.py)
 12. [Multiplication table](https://github.com/ys2723/Learn_Python/blob/main/12--%3EMultiplication_Table.py)
 13. [Functions](https://github.com/ys2723/Learn_Python/blob/main/13--%3EFunctions.py)
+14. [Factorial](https://github.com/ys2723/Learn_Python/blob/main/14--%3EFactorial.py)
