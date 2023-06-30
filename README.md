@@ -21,3 +21,4 @@ This is a repository which consists of python codes which will help a beginner i
 9. [Break Statement](https://github.com/ys2723/Learn_Python/blob/main/9--%3EBreak_Statement.py)
 10. [Continue Statement](https://github.com/ys2723/Learn_Python/blob/main/10--%3EContinue_Statement.py)
 11. [Pass Statement](https://github.com/ys2723/Learn_Python/blob/main/11--%3EPass_Statement.py)
+12. [Multiplication table](https://github.com/ys2723/Learn_Python/blob/main/12--%3EMultiplication_Table.py)
